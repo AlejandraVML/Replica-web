@@ -22,9 +22,11 @@ nav ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
+  padding-right: 5rem;
+  padding-top: 1rem;
+  -webkit-box-align: left;
+      -ms-flex-align: left;
+          align-items: left;
   list-style: none;
 }
 
