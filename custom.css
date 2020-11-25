@@ -36,4 +36,16 @@ nav #logo {
   width: 6rem;
   height: 1.4rem;
 }
+
+h1 {
+  padding-top: 4rem;
+  padding-left: 3rem;
+  font-family: Avenir;
+}
+
+h2 {
+  padding-left: 3rem;
+  padding-bottom: 8rem;
+  font-family: Avenir;
+}
 /*# sourceMappingURL=custom.css.map */

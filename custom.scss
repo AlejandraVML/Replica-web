@@ -1,6 +1,7 @@
 $primary-color: grey;
 $second-color: white;
 
+
 footer {
   background-color: $primary-color;
   padding: 0.25rem;
@@ -8,6 +9,7 @@ footer {
 }
 
 $header-color: white;
+$font-stack: Avenir;
 header {
     background-image: url("images/Background_image_edited.png");
     color: $header-color;
@@ -32,3 +34,16 @@ nav {
         height: 1.4rem;
     }
 }
+
+h1 {
+  padding-top: 4rem;
+  padding-left: 3rem;
+  font-family: $font-stack;
+}
+
+h2 {
+    padding-left: 3rem;
+    padding-bottom: 8rem;
+    font-family: $font-stack;
+  }
+  
