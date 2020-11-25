@@ -12,4 +12,7 @@ header {
     color: $header-color;
 }
 
-
+nav {
+    display: flex;
+    justify-content: space-between;
+}

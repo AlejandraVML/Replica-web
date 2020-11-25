@@ -8,4 +8,13 @@ header {
   background-image: url("images/Background_image_edited.png");
   color: white;
 }
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
 /*# sourceMappingURL=custom.css.map */
