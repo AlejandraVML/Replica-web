@@ -47,3 +47,11 @@ h2 {
     font-family: $font-stack;
   }
   
+  button {
+    border-radius: 50px;
+    color: white;
+    background-color: orangered;
+    margin: 5% 5% 5% 5%;
+    width: 160px;
+    height: 35px;
+}
