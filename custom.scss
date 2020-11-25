@@ -6,6 +6,10 @@ footer {
   text-align: center;
 }
 
+$header-color: white;
 header {
     background-image: url("images/Background_image_edited.png");
+    color: $header-color;
 }
+
+
