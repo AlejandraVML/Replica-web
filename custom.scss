@@ -1,7 +1,7 @@
-$second-color: grey
+$font-stack:    Helvetica, sans-serif;
+$primary-color: red;
 
-
-
-footer {
-    color: $second-color;
-  }
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
