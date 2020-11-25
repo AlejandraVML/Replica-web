@@ -17,4 +17,11 @@ nav {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+
+nav #logo {
+  padding-top: 1rem;
+  padding-left: 1rem;
+  width: 6rem;
+  height: 1.4rem;
+}
 /*# sourceMappingURL=custom.css.map */

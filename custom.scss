@@ -15,5 +15,12 @@ header {
 
 nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
+
+    #logo{
+        padding-top: 1rem;
+        padding-left: 1rem;
+        width: 6rem;
+        height: 1.4rem;
+    }
 }
