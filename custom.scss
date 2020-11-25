@@ -17,6 +17,12 @@ nav {
     display: flex;
     justify-content: space-between; 
 
+    ul {
+        display: flex;
+        justify-content: flex-end;
+        list-style: none;
+    }
+
     #logo{
         padding-top: 1rem;
         padding-left: 1rem;

@@ -18,6 +18,16 @@ nav {
           justify-content: space-between;
 }
 
+nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  list-style: none;
+}
+
 nav #logo {
   padding-top: 1rem;
   padding-left: 1rem;
