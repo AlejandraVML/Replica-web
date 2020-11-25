@@ -1,5 +1,6 @@
 $primary-color: grey;
 $second-color: white;
+$icon-size: 25px;
 
 
 footer {
@@ -66,4 +67,16 @@ h2 {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+#explicacionSeo {
+  display: flex;
+
+    .logo {
+      width: $icon-size;
+      height: $icon-size;
+    }
+
+
+
 }

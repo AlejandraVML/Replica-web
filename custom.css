@@ -74,4 +74,15 @@ button {
       -ms-flex-align: center;
           align-items: center;
 }
+
+#explicacionSeo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#explicacionSeo .logo {
+  width: 25px;
+  height: 25px;
+}
 /*# sourceMappingURL=custom.css.map */
