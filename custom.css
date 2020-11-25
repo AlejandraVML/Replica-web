@@ -30,6 +30,10 @@ nav ul {
   list-style: none;
 }
 
+nav li {
+  padding-right: 1rem;
+}
+
 nav #logo {
   padding-top: 1rem;
   padding-left: 1rem;
